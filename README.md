@@ -4,3 +4,4 @@ The following Jupyter notebook was created for the project "Industry standard fo
 - Mapping the extracted inventories with appropriate land occupation and transformation characterization factors from GLAM and Impact World +.
 - Calculating the resulting land-use-related impact on biodiversity (non land-use-related impacts were calculated separately), considering several possible methods.
 - For the purpose of a sensitivity analysis, modifying the geospecific LCIs to change the location of certain activities or the type of forestry.
+The code is open-source, licensed under the GNU GPL v3.
